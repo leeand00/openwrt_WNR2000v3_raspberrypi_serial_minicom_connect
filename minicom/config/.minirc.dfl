@@ -1,0 +1,6 @@
+# Machine-generated file - use setup menu in minicom to change parameters.
+pu baudrate      115200
+pu bits          7
+pu parity        E
+pu stopbits      1
+pu addcarreturn  Yes
