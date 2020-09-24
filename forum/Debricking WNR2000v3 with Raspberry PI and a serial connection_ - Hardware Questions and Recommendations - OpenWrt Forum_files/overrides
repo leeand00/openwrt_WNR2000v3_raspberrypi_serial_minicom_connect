@@ -1,0 +1,2 @@
+I18n._mfOverrides = {};
+I18n._overrides = {"js.composer.error.try_like":"Have you tried the :+1: button?"};
